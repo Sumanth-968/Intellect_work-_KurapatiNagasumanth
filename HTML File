@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="assignment.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"/>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/7c4512abd8.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+         <div class="full-background">
+            <div class="d-flex flex-row justify-content-end">
+               <button class="button-login">Login</button>
+            </div>
+            <div class="intro-card d-flex flex-row justify-content-between">
+                <div class="intro-matter">
+                    <h1 class="intro-heading">Find your <br>perfect place<br>to stay</h1>
+                    <p class="intro-p">Our exquisite rooms offers a perfect blend of contemporary elegance and warm hospitality</p>
+                    <p class="video-p"><i class="fa-solid fa-play video"></i>&nbsp;&nbsp;Watch Video</p>
+                </div>
+                <div>
+                    <img src="https://res.cloudinary.com/dftcmw8wg/image/upload/v1696421883/my_hotel_xlwyn8.jpg" class="intro-image"/>
+                </div>
+                <div class="overlay d-flex flex-row justify-content-between">
+                    <div class="overlay-items d-flex flex-row">
+                        <div class="d-flex flex-row">
+                            <p><i class="fa-sharp fa-solid fa-location-dot overlay-icon"></i>&nbsp;&nbsp;Location<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="overlay-span">Abuja</span></p>
+                            <div class="vl ml-3"></div>
+                        </div>
+
+                        <div class="d-flex flex-row ml-3">
+                            <p><i class="fa-solid fa-calendar overlay-icon"></i>&nbsp;&nbsp;check in<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="overlay-span">10-June-2023</span></p>
+                            <div class="vl ml-3"></div>
+                        </div>
+                        <div class="d-flex flex-row ml-3">
+                            <p><i class="fa-solid fa-calendar overlay-icon"></i>&nbsp;&nbsp;check out<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="overlay-span">15-June-2023</span></p>
+                            <div class="vl ml-3"></div>
+                        </div>
+                        <div class="d-flex flex-row last-icon ml-3">
+                            <p><i class="fa-solid fa-user overlay-icon"></i>&nbsp;&nbsp;Rooms for<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="overlay-span">1 rooms,2 guest</span></p>
+                            
+                        </div>
+                    </div>
+
+                    <div class="d-flex flex-row search">
+                        <div class="d-flex flex-row">
+                            <p class="ml-2"><i class="fa-solid fa-magnifying-glass overlay-icon-2"></i>&nbsp;Serach...</p>
+                        
+                        </div>
+                    </div>
+                    
+                    
+                </div>
+            </div>
+
+            <div class="mt-5">
+               <h1 class="mpr-heading">Our Most Popular Rooms</h1>
+               <div class="mt-5 d-flex flex-row justify-content-between">
+                  <div class="c1">
+                    <img src="https://res.cloudinary.com/dftcmw8wg/image/upload/v1696430709/c1_pskflx.jpg" class="c1-img"/>
+                    <div class="m-3">
+                        <h3>Executive Room</h3>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <p>$200 Per Night</p>
+                            </div>
+                            <div class="vl-2 ml-4"></div>
+                            <div class="ml-3 d-flex flex-row mt-1">
+                                <i class="fa-solid fa-star review mr-2"></i>
+                                <i class="fa-solid fa-star review mr-2"></i>
+                                <i class="fa-solid fa-star review mr-2"></i>
+                                <i class="fa-solid fa-star review mr-2"></i>
+                                <i class="fa-solid fa-star review-1 mr-2"></i>
+                                
+                            </div>
+                            <p class="ml-2">4.8</p>
+                        </div>
+                        
+                    </div>
+                  </div>
+                  <div class="c1">
+                    <img src="https://res.cloudinary.com/dftcmw8wg/image/upload/v1696430709/c1_pskflx.jpg" class="c1-img"/>
+                    <div class="m-3">
+                        <h3>Premium Room</h3>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <p>$200 Per Night</p>
+                            </div>
+                            <div class="vl-2 ml-4"></div>
+                            <div class="ml-3 d-flex flex-row mt-1">
+                                <i class="fa-solid fa-star review mr-2"></i>
+                                <i class="fa-solid fa-star review mr-2"></i>
+                                <i class="fa-solid fa-star review mr-2"></i>
+                                <i class="fa-solid fa-star review mr-2"></i>
+                                <i class="fa-solid fa-star review-1 mr-2"></i>
+                                
+                            </div>
+                            <p class="ml-2">4.8</p>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="c1">
+                    <img src="https://res.cloudinary.com/dftcmw8wg/image/upload/v1696430709/c1_pskflx.jpg" class="c1-img"/>
+                    <div class="m-3">
+                        <h3>Basic Room</h3>
+                        <div class="d-flex flex-row">
+                            <div>
+                                <p>$200 Per Night</p>
+                            </div>
+                            <div class="vl-2 ml-4"></div>
+                            <div class="ml-3 d-flex flex-row mt-1">
+                                <i class="fa-solid fa-star review mr-2"></i>
+                                <i class="fa-solid fa-star review mr-2"></i>
+                                <i class="fa-solid fa-star review mr-2"></i>
+                                <i class="fa-solid fa-star review mr-2"></i>
+                                <i class="fa-solid fa-star review-1 mr-2"></i>
+                                
+                            </div>
+                            <p class="ml-2">4.8</p>
+                        </div>
+
+                    </div>
+                  </div>
+
+               </div>
+
+            </div>
+
+            <div class="we d-flex flex-row">
+                <div>
+                    <h1 class="ad-heading">We do our best<br>facilitates provide you</h1>
+                    <p class="mt-2 ad-p">Discover your ideal Heaven.Find your perfect stay at<br> Golden sands resort</p>
+                    <button class="button-login-2 mt-5">Contact Now</button>
+                </div>
+                <div class="d-flex flex-column ml-5">
+                    <div class="d-flex flex-row justify-content-between">
+                        <div class="we-cards mr-3">
+                            <i class="fa-solid fa-display we-icons"></i>
+                            <p class="we-p">Private Workspace</p>
+                        </div>
+                        <div class="we-cards mr-3">
+                            <i class="fa-solid fa-square-parking we-icons ml-3 parking"></i>
+                            <p class="we-p">Private Workspace</p>
+                            
+                        </div>
+                        <div class="we-cards mr-3">
+                            <i class="fa-solid fa-mug-saucer we-icons"></i>
+                            <p class="we-p">Private Workspace</p>
+                        </div>
+                        <div class="we-cards">
+                            <i class="fa-solid fa-wifi we-icons"></i>
+                            <p class="we-p">Private Workspace</p>
+                        </div>
+
+                    </div>
+                    <div class="d-flex flex-row mt-3">
+                        <div class="we-cards mr-3">
+                            <i class="fa-solid fa-bolt we-icons"></i>
+                            <p class="we-p">Private Workspace</p>
+                        </div>
+                        <div class="we-cards mr-3">
+                            <i class="fa-solid fa-person-swimming fa-flip-horizontal we-icons ml-3"></i>
+                            <p class="we-p">Private Workspace</p>
+                            
+                        </div>
+                        <div class="we-cards mr-3">
+                            <i class="fa-solid fa-dumbbell we-icons"></i>
+                            <p class="we-p">Private Workspace</p>
+                        </div>
+                        <div class="we-cards">
+                            <i class="fa-solid fa-ellipsis we-icons"></i>
+                            <p class="we-p">Private Workspace</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mt-5 d-flex flex-row justify-content discover-card">
+                <div>
+                    <img src="https://res.cloudinary.com/dftcmw8wg/image/upload/v1696444929/swimming_xtiigu.jpg" class="discover-img"/>
+                </div>
+                <div class="p-4">
+                    <h1 class="discover-heading mt-4">Discover our History</h1>
+                    <p class="mt-3">Golden Sands Resort has a rich history dating back over a century. 
+                        Originally a grand mansion, it transformed into a distinguished hotel.</p>
+                        <br>
+                    <p>Welcoming esteemed guests and witnessing significant moments, it has evolved while preserving its historic charm. Today, it stands as an icon of luxury, 
+                        offering a perfect blend of heritage and contemporary hospitality.</p>
+                    <button class="button-login-2 mt-3">Explore More</button>
+                </div>
+                
+            </div>
+           
+            <div class="p-5">
+            <div class="mt-5 d-flex flex-row justify-content">
+                <div>
+                    <h1 class="mpr-heading">Frequently Asked<br><span class="q">Questions</span></h1>
+                    <p class="ad-p">You can book massages 7 days a week from 6 am to 11 pm, including public holidays.</p>
+                    
+                </div>
+                <div class="ml-5">
+                    <div class="qa-card">
+                        <div class="d-flex flex-row justify-content-end">
+                            <i class="fa-solid fa-angle-up"></i>
+                        </div>
+                        <h5 class="discover-heading">How far is nearset bus station ?</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor <br>incididunt ut labore et dolore magna aliqua. 
+                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+                    </div>
+                    <div class="qa-card mt-2">
+                        <div class="d-flex flex-row justify-content-end">
+                            <i class="fa-solid fa-angle-up fa-flip-vertical"></i>
+                        </div>
+                        <h5 class="discover-heading">What Makes Us Different</h5>
+                    </div>
+                    <div class="qa-card mt-2">
+                        <div class="d-flex flex-row justify-content-end">
+                            <i class="fa-solid fa-angle-up fa-flip-vertical"></i>
+                        </div>
+                        <h5 class="discover-heading">What Time Is Checking Out?</h5>
+                    </div>
+                </div>
+
+            </div>
+            </div>
+            
+            <div class="mt-5 map">
+                <img src="https://res.cloudinary.com/dftcmw8wg/image/upload/v1696448789/map_diqeru.jpg" class="map-img"/>
+            </div>
+            
+            
+            
+         </div>
+         <div class="foot d-flex flex-row">
+            <div class="mt-5 ml-5">
+                <p class="foot-heading">Looking Forward to a wonderful stay</p>
+                <div class="foot-icons d-flex flex-row justify-content-between mt-5">
+                    <i class="fab fa-twitter icon foot-icon-size"></i>
+                    <i class="fab fa-instagram icon foot-icon-size"></i>
+                    <i class="fab fa-facebook icon foot-icon-size"></i>
+
+                </div>
+                
+            </div>
+            <div class="foot-home">
+                <h4>Home</h4>
+                <p class="mt-1">Bookings</p>
+                <p class="mt-1">Facilities</p>
+                <p class="mt-1">Location</p>
+                <p class="mt-1">Contact</p>
+           </div>
+           <div class="foot-home">
+                <h4>Help</h4>
+                <p class="mt-1">About us</p>
+                <p class="mt-1">Help Center</p>
+                <p class="mt-1">Privacy</p>
+                <p class="mt-1">FAQs</p>
+           </div>
+           <div class="foot-home">
+                <h4>Get the app</h4>
+                <p class="mt-1">Android app</p>
+                <p class="mt-1">IOS app</p>
+                
+           </div>
+           
+
+         </div>
+         
+    </body>
+    </html>
