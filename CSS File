@@ -1,0 +1,197 @@
+.full-background{
+    background-color: #222222;
+    padding:2% 4% 4% 4%;
+}
+.button-login{
+    background-color:#FA7462;
+    color:white;
+    padding:5px;
+    border-style:none;
+    border-radius:25px;
+    width:100px;
+    margin-left:auto;
+
+}
+.button-login-2{
+    background-color:#FA7462;
+    color:white;
+    padding:15px;
+    border-style:none;
+    border-radius:25px;
+    
+    margin-left:auto;
+
+}
+.intro-card{
+    background-color:#F5FBF8;
+    position:relative;
+    border-radius:25px;
+    margin-top:3%;
+}
+.intro-image{
+    height:80vh;
+    width:50vw;
+    border-radius:15px 15px 15px 15px;
+}
+.intro-matter{
+    padding:30px;
+}
+.intro-heading{
+    color:black;
+    font-weight:800;
+    font-family: sans-serif;
+    margin-top:10px;
+}
+.intro-p{
+    margin-top:20px;
+}
+.sample{
+    background-color: white;
+    height:20vh;
+    border-radius:20px;
+}
+.overlay {
+    background-color: #FDFDFD;
+    position: absolute;
+    
+    top: 75%;
+    left: 20%;
+    right: 20%;
+    bottom: 0;
+    
+    height:18%;
+    border-radius: 50px;
+    z-index: 1; /* Ensure the overlay is above other content */
+}
+.overlay-items{
+    padding: 20px;
+}
+.video{
+    color: #FA7462;
+    background-color: white;
+    border-radius:50%;
+    padding:10px;
+}
+.video-p{
+    color:#222222;
+    font-weight: 600;
+}
+.overlay-icon{
+    color: #FA7462;
+}
+.overlay-span{
+    font-size:12px;
+    color:#878E80;
+}
+.vl {
+    border-left: 1px solid #E8E8E8;
+    height: 50px;
+  }
+.search{
+    background-color: #FA7462;
+    color:white;
+    border-radius: 50px;
+    width:150px;
+    border-radius:50px;
+    padding:25px
+}
+.overlay-icon-2{
+    color:white;
+}
+.mpr-heading{
+    color:white;
+}
+.c1{
+    background-color:white;
+    border-radius:20px;
+}
+.c1-img{
+    height:50vh;
+    width:28vw;
+}
+.review{
+    color:#F5B700;
+}
+.review-1{
+    color:#E5E5E5;
+}
+.vl-2{
+    border-left: 1px solid #E8E8E8;
+    height: 25px;
+  }
+.ad-heading{
+    color:white;
+}
+.ad-p{
+    color:white;
+}
+.we{
+    margin-top:150px;
+}
+.we-cards{
+    background-color:white;
+    height: 24vh;
+    width:11vw;
+    border-radius: 10px;
+    text-align:center;
+    padding:25px;
+}
+.we-icons{
+    color:#FA7462;
+    font-size:25px;
+}
+.we-p{
+    font-size: 12px;
+    margin-top:8px;
+}
+.parking{
+    font-size:35px;
+    margin:auto;
+}
+.discover-card{
+    background-color: white;
+    border-radius:20px;
+    width:90vw;
+    
+}
+.discover-img{
+    height:70vh;
+    width:40vw;
+    border-radius:20px;
+}
+.discover-heading{
+    color:black;
+}
+.q{
+    color:#FA7462;
+}
+.qa-card{
+    background-color:white;
+    border-radius:10px;
+    
+    
+    padding:20px;
+}
+.map-img{
+    height:90vh;
+    width:90vw;
+}
+.foot{
+    background-color:#FA7462;
+    padding:25px;
+    height:50vh;
+    width:99vw;
+}
+.foot-icon-size{
+    font-size: 30px;;
+}
+.foot-heading{
+    color:white;
+}
+.foor-icons{
+    margin-top:75px;
+}
+.foot-home{
+    margin-left:200px;
+    color:white;
+}
